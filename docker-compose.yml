@@ -1,0 +1,5 @@
+version: '3.9'
+services:
+  redis:
+    container_name: denis_container_name
+    image: "ubuntu:latest"
